@@ -22,7 +22,7 @@ setup(
     author="Tim Riddermann",
     python_requires=">=3.7",
     install_requires=[
-        "construct==2.10.68",
+        "construct @ git+https://github.com/lmsxyz/construct@feat/new-io-bytes",
         "typing_extensions>=4.6.0"
     ],
     keywords=[

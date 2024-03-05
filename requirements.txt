@@ -1,4 +1,4 @@
-construct==2.10.68
+construct @ git+https://github.com/lmsxyz/construct@feat/new-io-bytes
 pytest>=6.2.0
 numpy
 arrow
