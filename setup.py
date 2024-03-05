@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from setuptools import setup
 
-version_string = "?.?.?"
+version_string = "0.5.2"
 exec(open("./construct_typed/version.py").read())
 
 setup(
